@@ -355,6 +355,7 @@ Action 3:
 The submission includes:
 
 - `IT24102699_Lab08.docx` — Word document with all screenshots, notes, and Quick Test answers.
+- [`docs/SE3090_Lab08_Git_CICD_Security.pdf`](docs/SE3090_Lab08_Git_CICD_Security.pdf) — Original lab sheet (Student Version).
 - This repository: [campuseats-task-tracker](https://github.com/umandathathsarani/campuseats-task-tracker)
 
 > **The Golden Security Rule:** Never commit secrets (API keys, passwords, tokens) to Git.
